@@ -60,8 +60,8 @@ public class SecurityConfig {
                         //configuration.setAllowedOrigins(Arrays.asList("http://43.203.170.229", "http://43.203.170.229:80"));
                         //configuration.setAllowedOrigins(Arrays.asList("http://heejung.n-e.kr", "https://heejung.n-e.kr"));
                         configuration.setAllowedOrigins(Arrays.asList(
-                                "http://100.52.254.188",
-                                "http://100.52.254.188:8080",
+                                "http://13.209.48.139",
+                                "http://13.209.48.139:8080",
                                 "http://localhost:5173"
                         ));
                         configuration.setAllowedMethods(Collections.singletonList("*"));
